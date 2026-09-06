@@ -1,0 +1,12 @@
+{
+  "name": "contextbolt-seo",
+  "version": "0.1.0",
+  "description": "Research keywords, competitors, backlinks, AI visibility, and search performance with ContextBolt SEO.",
+  "author": {
+    "name": "ContextBolt",
+    "email": "hello@contextbolt.com",
+    "url": "https://contextbolt.com"
+  },
+  "homepage": "https://contextbolt.com/docs/seo/",
+  "mcpServers": "./.mcp.json"
+}

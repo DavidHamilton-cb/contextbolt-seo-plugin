@@ -1,0 +1,35 @@
+{
+  "name": "contextbolt-seo",
+  "version": "0.1.0",
+  "description": "Research keywords, competitors, backlinks, AI visibility, and search performance with ContextBolt SEO.",
+  "author": {
+    "name": "ContextBolt",
+    "email": "hello@contextbolt.com",
+    "url": "https://contextbolt.com"
+  },
+  "homepage": "https://contextbolt.com/docs/seo/",
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "ContextBolt SEO",
+    "shortDescription": "SEO research and AI visibility in your assistant.",
+    "longDescription": "Research keywords, competitors, backlinks, audits, AI visibility, and search performance. Keep findings in your ContextBolt account. Requires an active SEO account. Connect through the hosted sign-in page.",
+    "developerName": "ContextBolt",
+    "category": "Productivity",
+    "capabilities": [
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://contextbolt.com/seo/",
+    "privacyPolicyURL": "https://contextbolt.com/privacy/",
+    "termsOfServiceURL": "https://contextbolt.com/terms/",
+    "defaultPrompt": [
+      "Find keyword ideas for my business.",
+      "Compare my domain with a competitor.",
+      "Show me my saved SEO research."
+    ],
+    "brandColor": "#EA580C",
+    "logo": "./assets/icon.png",
+    "composerIcon": "./assets/icon.png"
+  }
+}

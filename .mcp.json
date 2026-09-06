@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "contextbolt-seo": { "type": "http", "url": "https://seo.contextbolt.app/mcp" }
+  }
+}
